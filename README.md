@@ -145,4 +145,5 @@ O hPa_328P_v0_1_0 é uma estação barométrica compacta que:
     • Entra em sleep para economizar energia
     • Usa I²C em 25 kHz com drivers próprios
     • É totalmente modular e expansível
-É um projeto robusto, limpo
+É um projeto robusto, limpo e semi profissional
+
